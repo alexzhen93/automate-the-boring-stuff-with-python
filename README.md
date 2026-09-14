@@ -26,8 +26,8 @@ So the chapter list below reflects the 2nd edition structure for now — the 3rd
 
 | Chapter | Topic | Status |
 |---|---|---|
-| 1 | Python Basics | ⬜ |
-| 2 | Flow Control | ⬜ |
+| 1 | Python Basics | ✅ |
+| 2 | Flow Control | ✅ |
 | 3 | Functions | ⬜ |
 | 4 | Lists | ⬜ |
 | 5 | Dictionaries and Structuring Data | ⬜ |
