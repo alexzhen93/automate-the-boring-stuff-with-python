@@ -28,7 +28,7 @@ So the chapter list below reflects the 2nd edition structure for now — the 3rd
 |---|---|---|
 | 1 | Python Basics | ✅ |
 | 2 | Flow Control | ✅ |
-| 3 | Functions | ⬜ |
+| 3 | Functions | ✅ |
 | 4 | Lists | ⬜ |
 | 5 | Dictionaries and Structuring Data | ⬜ |
 | 6 | Manipulating Strings | ⬜ |
